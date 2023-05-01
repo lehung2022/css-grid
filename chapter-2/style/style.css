@@ -1,0 +1,15 @@
+:root {
+    --blue: #1e90ff;
+    --white: #ffffff;
+    --yellow: #dcd929;
+  }
+p {
+    font-size: 50px;
+    border-bottom: 10px solid var(--yellow);
+    color: var(--black);
+}
+
+body {
+    background-image: url(../img/bat_sei_zaam_vs_one_another_1.png);
+    background-size: cover;
+}
